@@ -1,9 +1,4 @@
-[commit]
-	gpgsign = true
-[gpg]
-	program = gpg
 [user]
-	signingkey = 81365DA6912B3BF9
 	name = BlueHotDog
 	email = BlueHotDog@users.noreply.github.com
 [push]
